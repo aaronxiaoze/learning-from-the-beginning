@@ -1,2 +1,13 @@
-this is another instruction documentation to explain what this project is about.
-all things need to be different. if other wise, no different at all
+this are another instruction documentation to explain what this project is about.
+
+What is a Grid System?
+In case you’re new to CSS grid systems, we’ll start with a quick definition. In basic terms, a grid system is a structure that allows for content to be stacked both vertically and horizontally in a consistent and easily manageable fashion. Additionally, grid system code is project-agnostic giving it a high degree of portability so that it may be adopted on new projects.
+
+The Benefits
+They increase productivity by providing simple and predictable layout scaffolding to HTML design. The structure of a page can be formulated quickly without second guessing its precision or cross-browser compatibility.
+They are versatile in how layouts can be constructed, being adaptable in varying combinations of rows and columns. They even support nested grids for more complex use cases. No matter your layout requirements, a grid system is almost certainly well suited.
+They are ideal for responsive layouts. This is where grid systems reign supreme. They make it incredibly easy to create mobile friendly interfaces that are adaptable to different sized viewports.
+The Primary Components
+Grid systems include two key components: rows and columns. Rows are used to accommodate the columns. Columns make up the final structure and contain the actual content. Some grid systems will additionally include containers, which serve as wrappers for the layout.
+
+
